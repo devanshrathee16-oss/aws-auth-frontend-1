@@ -5,10 +5,10 @@ export function configureAmplify() {
   Amplify.configure({
     Auth: {
       Cognito: {
-        userPoolId: "us-east-2_3sTzqaET8",
-        userPoolClientId: "36fk9vns52pbma5n0brs54c2vc",
+        userPoolId: "us-east-1_EAMWe69Bs",
+        userPoolClientId: "5dh33ut76pv5podndluov2qur",
         identityPoolId:
-          "us-east-2:7800eaa8-5aca-45df-a462-d07f49038270",
+          "us-east-1:7694cbc9-39b0-44b8-8562-3e8158f93d93",
 
         // how users log in – email is fine because you’re using Hosted UI
         loginWith: {

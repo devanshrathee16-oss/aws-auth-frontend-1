@@ -12,8 +12,8 @@ function getSubFromIdToken(idToken) {
 
 const bucketOptions = {
   bucket: {
-    bucketName: "scalable-web-app-file-storage",
-    region: "us-east-2",
+    bucketName: "devanshbucket1603",
+    region: "us-east-1",
   },
 };
 
